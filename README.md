@@ -1,5 +1,5 @@
 # Article Management System
-This Python project defines a set of classes to model the relationships between authors, articles, and magazines. It allows managing articles and their associated authors and magazines. The key feature of this system is its structure, where each Article is associated with an Author and a Magazine, with validation rules for each entity. Additionally, it provides methods for managing and querying articles, authors, and magazines.
+This Python Challenge defines a set of classes to model the relationships between authors, articles, and magazines. It allows managing articles and their associated authors and magazines. The key feature of this system is its structure, where each Article is associated with an Author and a Magazine, with validation rules for each entity. Additionally, it provides methods for managing and querying articles, authors, and magazines.
 
 # Class Overview
 1. Article Class
