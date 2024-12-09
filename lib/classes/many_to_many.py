@@ -159,11 +159,11 @@ tech_mag = Magazine("Tech Monthly", "Technology")
 
 article1 = john.add_article(tech_mag, "The Future of AI")
 
-print(john.articles())  # Lists articles by John
+print(john.articles()) 
 
-print(john.magazines())  # Lists magazines John contributed to
+print(john.magazines()) 
 
-print(tech_mag.articles())  # Lists articles in "Tech Monthly"
+print(tech_mag.articles())  
 
-print(tech_mag.contributors())  # List of authors who contributed to the magazine
+print(tech_mag.contributors())  
         
